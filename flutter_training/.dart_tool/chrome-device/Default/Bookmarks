@@ -1,0 +1,172 @@
+{
+   "checksum": "3d1843078599a4714ecca1f9b4b135a9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13360828070653417",
+            "date_last_used": "0",
+            "guid": "b9ade680-8309-420f-a481-b5ba23b13f2f",
+            "id": "6",
+            "name": "Quyết định Ban hành MT, CĐR, Khung chương trình và danh mục học phần - CTĐT cải tiến năm 2022 - Khoa Công nghệ Thông tin - Trường ĐH Mở HN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.fithou.edu.vn/Article.aspx?aid=2112&cid=3&fbclid=IwZXh0bgNhZW0CMTAAAR13gc3RX4miB2tMBJxT9HWM-9t19YKL1vSAp6J6xXHCmidkufxO5Zl12-8_aem_AaqN58bgcls_03_ssZ2vxoiborI1NvikQFiRGY4tvB0tlPowArJpkXe-5f_bTQs0iRO8nB6h_Xm-jPLBck9kDs4m",
+            "visit_count": 0
+         }, {
+            "date_added": "13370152725821633",
+            "date_last_used": "0",
+            "guid": "56adabc3-b3c6-4a44-a18d-f02ea78c193e",
+            "id": "7",
+            "name": "Game Thuần Việt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gamethuanviet.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13370152743894480",
+            "date_last_used": "0",
+            "guid": "37afb1eb-dfa9-436a-95d8-acf9421fb02c",
+            "id": "8",
+            "name": "Cánh Cụt Team - Việt Hóa Chuẩn - Việt Ngữ Game",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://canhcutteam.vn/",
+            "visit_count": 0
+         }, {
+            "date_added": "13370178296566647",
+            "date_last_used": "0",
+            "guid": "84551aeb-ed6a-4c21-8aff-198575337886",
+            "id": "9",
+            "name": "The Red Team - Việt Hóa Game",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://theredteam.vn/home",
+            "visit_count": 0
+         }, {
+            "date_added": "13378980931898547",
+            "date_last_used": "0",
+            "guid": "5b16f4ba-4c20-4f53-8702-4aa78cb6d404",
+            "id": "10",
+            "name": "Weather API - OpenWeatherMap",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://openweathermap.org/api",
+            "visit_count": 0
+         }, {
+            "date_added": "13370235335444842",
+            "date_last_used": "0",
+            "guid": "11d35a74-a218-48bf-8037-12e59566b25b",
+            "id": "11",
+            "name": "Free Vector Illustrations and Clipart Images",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://icons8.com/illustrations",
+            "visit_count": 0
+         }, {
+            "date_added": "13371037754378296",
+            "date_last_used": "0",
+            "guid": "a8967a3d-261e-4540-888a-611770d20f84",
+            "id": "12",
+            "name": "index.php",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://lms.hao.edu.vn/login/index.php",
+            "visit_count": 0
+         }, {
+            "date_added": "13372394911385430",
+            "date_last_used": "0",
+            "guid": "cbbbf1b5-c607-4cb1-b6ca-7b8722562c54",
+            "id": "13",
+            "name": "A Step by Step Guide to Building an Android Audio Player App — SitePoint",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.sitepoint.com/a-step-by-step-guide-to-building-an-android-audio-player-app/",
+            "visit_count": 0
+         }, {
+            "date_added": "13378985496128549",
+            "date_last_used": "0",
+            "guid": "40068e6f-1cfb-4deb-9e10-a69ff2b40e26",
+            "id": "14",
+            "name": "public-apis/public-apis: A collective list of free APIs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/public-apis/public-apis?tab=readme-ov-file#weather",
+            "visit_count": 0
+         }, {
+            "date_added": "13373880094499766",
+            "date_last_used": "13373904834376880",
+            "guid": "f2098936-33ab-41b8-8dff-5ebfa9357121",
+            "id": "15",
+            "name": "SE.G04 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/1/folders/1WEDvvkDDkJpguooQenCP-yFCP2EzvGQS",
+            "visit_count": 2
+         }, {
+            "date_added": "13374599128568232",
+            "date_last_used": "0",
+            "guid": "3bc1e7af-5dd7-4ff5-b2b5-7e03b6f12a24",
+            "id": "16",
+            "name": "Thư mục - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/19-kL6ZLAKD-OfBBVEHdKXpc4UiGwsdkW",
+            "visit_count": 0
+         }, {
+            "date_added": "13373380422072793",
+            "date_last_used": "0",
+            "guid": "9b3fe086-7890-4d8a-8209-0ae311f185e0",
+            "id": "17",
+            "name": "Congratulations! The PNG Image Has Been Downloaded (Transparent Snakes Clipart - Cartoon Snake Clipart, HD Png Download) - PNGitem",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pngitem.com/download/ioRxbxR_transparent-snakes-clipart-cartoon-snake-clipart-hd-png/",
+            "visit_count": 0
+         } ],
+         "date_added": "13379782980701849",
+         "date_last_used": "0",
+         "date_modified": "13378985496128549",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13379782980701852",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13379782980701854",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDIt99iTAQAAEgAqGGhaNG5lQlUxK2Q2OVdWVlNuMDlUUGc9PUgDoAYHEq4BCBESqQEKHGZ4UDJhaWtHeFA1RXRQdjRrUVo5LzFjcFlzND0SJDliM2ZlMDg2LTc4OTAtNGQ4YS04MjA5LTBhZTMxMWYxODVlMBgAIAAoADDymYLXqDI47JuC16gyQOybgteoMkocSHlHNG8rQ0xVTW5lODBZRVJwdnprWml4ZVBBPVogIh7//ldZbkpqeTNkY1I4MVZNaExQUFNEcjN1SW1Jdz1ltUA6bsI+AmAFEq8BCBASqgEKHGFsQ1FXcXFRMU82bUlEWXBzZXpEd1IydUw1WT0SJDNiYzFlN2FmLTVkZDctNGZmNS1iMmI1LTdlMDNiNmYxMmEyNBgAIAAoADCMl5KcrTI4gJmSnK0yQICZkpytMkocbjVvQXZlUTc5VEEwYzJXaXM4Rk9YMDR4RmhvPVohIh///k54RzZGR1JMVzFMRDY5NjZQT3ozR1FoN2N4ejQ9ZfqR3tvCPgJgBRKuAQgPEqkBChx1dURKSTRVS3dNZUFqMnhvazZsRkoxQkVrT289EiRmMjA5ODkzNi0zM2FiLTQxYjgtOGRmZi01ZWJmYTkzNTcxMjEYACAAKAAw5dWK0aoyOJLio8WqMkCS4qPFqjJKHEdnWTRMZmFtdkFINWN1NEFxbVdvb0t4OE5hMD1aICIe//5FZDhRNTNZUDhRL3UvdGdtUXZiQkxXaWR5Z3c9ZfqR3tvCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRmODcyMTM4Mi1iNDlhLTVkYWItYjI5ZS1iY2M1NzNlNDgxODAYACAAKAAw5uKIysYvOKqp2rvuL0Cqqdq77i9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASrgEIDBKpAQocN20rRng3VG91Vjd3c2FiWkZnRW44Y3k4cmNBPRIkYTg5NjdhM2QtMjYxZS00NTQwLTg4OGEtNjExNzcwZDIwZjg0GAAgACgAMMST+fmfMjj9lfn5nzJA/ZX5+Z8yShxZSXpvdVR0dDhPRzdBd2tMaDZIbmpvMTdQNVU9WiAiHv/2VDZoWlhqZEU2LzhyZUtQNVNwVUFDZFR4R093PWXE6l4Jwj4CYAUSrQEIBxKoAQocOW5nbjY3WlBpYjd1UFNwdlM0S0J3TjJSc0FBPRIkNTZhZGFiYzMtYjNjNi00YTQ0LWExOGQtZjAyZWE3OGMxOTNlGAAgACgAMNuj99OcMjiIpffTnDJAiKX305wyShxwNEd4UVJ2d3Jsem5jYTgxM0Irb00ycWxjeDQ9Wh8iHf9nUEkyNlpxRmhiN1FaRFNKQng3MkY2TnRUT0k9ZcTQi/7CPgJgBRKuAQgLEqkBChxlY2I3Zk9BTXlDQjZQRlFnOWxWTk1wMkg3ZEE9EiQxMWQzNWE3NC1hMjE4LTQ4YmYtODAzNy0xMmU1OTU2NmIyNWIYACAAKAAw0qep+5wyOOupqfucMkDrqan7nDJKHEcwb3FmZ2JjclZORjVXQ21MYmpyL0EwdWUzOD1aICIe/+xYRXh4bjVBeGdIdzRPRnQzRjFxWGIwVitJY3c9Ze2MAMfCPgJgBRKuAQgJEqkBChxGb0RWbHdaeWtYVHMwUkd3Ly9LT1J1WjljeFE9EiQ4NDU1MWFlYi1lZDZhLTRjMjEtOGFmZi0xOTg1NzUzMzc4ODYYACAAKAAwpoaQ4JwyOMKIkOCcMkDCiJDgnDJKHExjcnhEU0lCY09uRWYrdy9vbG96VUFkdU1Odz1aICIe/9kxbEVDNnFHYXRCV1QvcEExQmVvN0J6UVVxdDg9ZegyfizCPgJgBRKtAQgGEqgBChx6SG9PRG9ka2h2OGU4bURLTkYwTUlVZXd4K2s9EiRiOWFkZTY4MC04MzA5LTQyMGYtYTQ4MS1iNWJhMjNiMTNmMmYYACAAKAAwk7jL9fkxOMS5y/X5MUDEucv1+TFKHEJCdGZLc2gycUs3YUJBbjRhZWZmWnZoRzR6MD1aHyId/zhEaCtONERXTHlQSG1pTndIM1RvQk5IUXFJZz1lj8sYPcI+AmAFEq4BCA0SqQEKHHVTYkFRcGdJRjZaNU1XZWxBYzl6YXp2U3lYST0SJGNiYmJmMWI1LWM2MDctNGNiMS1iNmNhLTdiODcyMjU2MmM1NBgAIAAoADDKr4uBpTI4lrGLgaUyQJaxi4GlMkocYUwzbEE2ZDJ4NVVOcGRhdkFUOVl6TXFuOE9rPVogIh7/+1loU0pwZlJPdXJNQkdmVVE0SGZZK1dJZVZ1UT1lohqodMI+AmAFEq4BCAgSqQEKHFZ5THFlK0dHVzVhVExicFNUWDZSR0xZQ1d3OD0SJDM3YWZiMWViLWRmYTktNDM2YS05NWQ4LWFjZjk0MjFmYjAyYxgAIAAoADDnsPjTnDI497L405wyQPey+NOcMkocd0crd09tVE1zb3FRNUludDl2V2pPZG45bkc4PVogIh7/s1NhbU1pMnhsUXo5bDN4STZpdGo4SXQ1aVJhRT1l4h045sI+AmAFEq4BCAoSqQEKHEpaWEZMR3dlODVPdGVWcG9PN1hDYjRoNzh4TT0SJDViMTZmNGJhLTRjMjAtNGY1My04NzAyLTRhYTc4Y2I2ZDQwNBgAIAAoADCT5MbFvTI47JPGxb0yQOyTxsW9MkocK0ZXYkRqMGI4QjRib3lSS1UvN2NXOWV3WkM4PVogIh7/4kdEWUZBN0hwMEdkYnZBaSt6cEVoWW9TRmhCZz1li7saOMI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDUzOTc4MmEyLWFlMmQtNWM2MC1hZjA2LTlhNzBhZDg5Y2ZlOBgAIAAoADDm4ojKxi847Kjau+4vQOyo2rvuL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRjODA5Njk1Zi1lZjEzLTViODYtOTcyYy0wMGEwMmE4ZGQwYWYYACAAKAAw5uKIysYvOIup2rvuL0CLqdq77i9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrgEIDhKpAQocUDdKUXlGRFY1SkltZ0N5bFNyZzFkTHdNMUVJPRIkNDAwNjhlNmYtMWNmYi00ZGViLTllMTAtYTY5ZmYyYjQwZTI2GAAgACgAMLHa3Me9Mjj529zHvTJA+dvcx70yShxtNlRLZU5DaWFuZ2tuUWQ1dUxDU0lkWE5aRFU9WiAiHv/8V3RLbkUrNmhGTWtpK3YwWUZ0MkpQL3ZUeVpVPWUVUPmJwj4CYAUwADgA",
+   "version": 1
+}
