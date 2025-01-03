@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_training/api_key.dart';
-import 'package:flutter_training/models/myweather.dart';
-import 'package:flutter_training/myweather_factory.dart';
 import 'package:intl/intl.dart';
 import 'package:weather/weather.dart';
 
