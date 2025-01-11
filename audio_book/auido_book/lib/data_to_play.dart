@@ -1,0 +1,1 @@
+const String MY_DATA = "Chào Lan! Mình là James, đến từ Hoa Kỳ. Rất vui được gặp bạn. Chào James! Mình là Lan, đến từ Việt Nam. Rất vui được làm quen với bạn. Bạn làm nghề gì vậy, Lan? Mình là cô giáo dạy ngoại ngữ. Còn bạn? Mình là kỹ sư hàng không. Nghe thú vị quá! Bạn đến Việt Nam lâu chưa? Mình mới đến đây được vài ngày. Hy vọng bạn sẽ thích Việt Nam! Cảm ơn Lan!";
